@@ -439,26 +439,12 @@ Not restrictive licenses.
 
 **See full LICENSE file on GitHub**
 
----
-
-## NEXT STEPS
-
-1. Scale to 50,000 words (still on Colab)
-2. Add hierarchical clustering
-3. Build 3D visualizer
-4. Test on real NLP benchmarks
-5. Write academic paper
-6. Community contributions welcome!
-7. **All under MIT License**
-
----
-
-
 
 ---
 
 **Signed: Aethion0141**
 **Age 16, Independent Researcher**
+Gmail:kevinsthayil@gmail.com
 **May 23, 2026**
 **Platform: Google Colab (Free Tier)**
 **License: MIT (Open Source, Free for All)**
