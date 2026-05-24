@@ -41,7 +41,7 @@ Signed: Kevin Sebastian (Aethion0141)
 Date: May 24, 2026
 Code: spike_transformer.py
 Mechanisms: spike-transformer.txt
-GitHub: https://github.com/Aethion0141/spike-coordinate-transformer
+GitHub:(https://github.com/Aethion0141/-spike-coordinate-transformer)
 "Distance = Attention. Geometry = Intelligence."
 — Kevin Sebastian (Aethion0141), Age 16
 
