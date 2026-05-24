@@ -32,14 +32,14 @@ Results: 0.93 seconds to understand Shakespeare
 
 License
 MIT © 2026 Kevin Sebastian (Aethion0141)
-
+code:spike-transformer.py 
+mechanics behind-spike-transformer.txt
 Free for all use. Credit required.
 
 Signature
 text
 Signed: Kevin Sebastian (Aethion0141)
 Date: May 24, 2026
-Code: spike_transformer.py
 Mechanisms: spike-transformer.txt
 GitHub:(https://github.com/Aethion0141/-spike-coordinate-transformer)
 "Distance = Attention. Geometry = Intelligence."
